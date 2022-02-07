@@ -1,0 +1,8 @@
+_extends: .github
+repository:
+  name: range
+  description: >-
+    form8ion tool for managing the collection of repositories in an organization
+    account
+  homepage: https://npm.im/@form8ion/range
+  private: false
